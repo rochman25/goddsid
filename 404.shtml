@@ -1,0 +1,39 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <link href="https://fonts.googleapis.com/css?family=Encode+Sans+Semi+Condensed:100,200,300,400" rel="stylesheet">
+<body class="loading">
+  <h1>MAINTENANCE BREAK</h1>
+  <h2> Wait a minutes <b> www.godds.id </b></h2>
+  <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+  <script src="js/main.js" type="text/javascript"></script>
+    <style>/**/
+:root {
+  --main-color: #eaeaea;
+  --stroke-color: black;
+  
+}
+/**/
+body {
+  background: var(--main-color);
+}
+h1 {
+  margin: 100px auto 0 auto;
+  color: var(--stroke-color);
+  font-family: 'Encode Sans Semi Condensed', Verdana, sans-serif;
+  font-size: 3rem; line-height: 3rem;
+  font-weight: 200;
+  text-align: center;
+}
+h2 {
+  margin: 20px auto 30px auto;
+  font-family: 'Encode Sans Semi Condensed', Verdana, sans-serif;
+  font-size: 1.5rem;
+  font-weight: 200;
+  text-align: center;
+}
+h1, h2 {
+  -webkit-transition: opacity 0.5s linear, margin-top 0.5s linear; /* Safari */
+  transition: opacity 0.5s linear, margin-top 0.5s linear;
+</body>
+</html>

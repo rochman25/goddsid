@@ -1,0 +1,56 @@
+<footer class="footer">
+    <div class="container">
+        <div class="footer-list">
+            <h1>Tentang Kami</h1>
+    <p class="w3-justify"> Godds adalah part brand dari Chameleon Cloth yang berbasis pada pakaian basic.</p>
+    <p class="w3-justify"> CHAMELEON CLOTH</p>
+    <p class="w3-justify"> Jl. Patimuan - Kedungreja, Cinyawang, Patimuan - Cilacap 53264</p>
+    <p class="w3-justify"> Call Center : 083840374027 (09:00 - 21:00)</p>
+    <p class="w3-justify"> WhatsApp : 083840374027 (09:00 - 21:00)</p>
+    <p class="w3-justify"> LINE ID : goddsid (09:00 - 21:00)</p>
+            
+        </div>
+        <br></br>
+        <div class="footer-list">
+            <h1>Layanan</h1>
+            <ul>
+                <li><a href="<?= base_url() ?>panduan/retur">Garansi</a></li>
+                <li><a href="<?= base_url() ?>panduan/pemesanan">Cara Pemesanan</a></li>
+                <li><a href=" <?= base_url() ?>panduan/ukuran">Panduan Ukuran</a> </li>
+            </ul>
+        </div>
+        <div class=" pull-right-footer">
+                        <div class="social">
+                            <div class="socialmedia-item">
+                                <a href="https://facebook.com/goddsindonesia" target="blank"><i class="fa fa-facebook fa-2x"></i></a>
+                            </div>
+                            <div class="socialmedia-item">
+                                <a href="https://mobile.twitter.com/goddsid" target="_blank"><i class="fa fa-twitter fa-2x"></i></a>
+                            </div>
+                            <div class="socialmedia-item">
+                                <a href="https://instagram.com/godds.id" target="_blank"><i class="fa fa-instagram fa-2x"></i></a>
+                            </div>
+                            <div class="socialmedia-item">
+                                <a href="https://www.youtube.com/channel/UCXrr6Q91WHyPqjUitlcU0xQ" target="_blank"><i class="fa fa-youtube fa-2x"></i></a>
+                            </div>
+                            <div class="socialmedia-item">
+                                <a href="https://api.whatsapp.com/send?phone=6283840374027" target="_blank"><i class="fa fa-whatsapp" aria-hidden="true"></i></a>
+                            </div>
+                        </div>
+        </div>
+    </div>
+
+    <div class="container copyright">
+        © All Right Reserved</a>
+    </div>
+</footer>
+
+
+
+<script type="text/javascript">
+    $(window).on('load', function() {
+        $(".svg-container").fadeOut("slow");
+    });
+</script>
+</body>
+</html>
